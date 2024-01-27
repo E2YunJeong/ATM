@@ -1,2 +1,2 @@
-# university
-Codes I made in college.
+# ATM
+I made this program to use C language.
